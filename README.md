@@ -4,10 +4,10 @@ TwiTrends is a java tool to stream the lists of the top 50 subjects on Twitter f
 Requirements:
 
 Twitter API authentification in /resources/config.properties: 
-- ConsumerKey:
-- ConsumerSecret:
-- AccessToken:
-- AccessTokenSecret:
+- ConsumerKey
+- ConsumerSecret
+- AccessToken
+- AccessTokenSecret
 
 -------------------------------------------------------------------------------------------------
 
