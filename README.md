@@ -17,4 +17,4 @@ java -jar TwiTrends.jar
 
 -------------------------------------------------------------------------------------------------
 
-Developped by Didier Henry PhD student at the University of French West Indies
+Developped by Didier Henry PhD student at the University of French West Indies (Guadeloupe)
